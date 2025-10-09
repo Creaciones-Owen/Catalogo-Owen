@@ -113,23 +113,14 @@ if (waBtn && typeof fbq === 'function') {
 
       // Tabla de precios
       const preciosContainer = document.getElementById("product-prices");
-      if (producto.precios && producto.precios.length > 0) {
-        let html = "<h3>(Puedes surtir en varias referencias)</h3><h3>Precios por cantidad</h3><table class='prices-table'>";
-        html += "<tr><th>Cantidad</th><th>Valor</th><th>Unidad</th></tr>";
-
-        producto.precios.forEach(p => {
-          html += `
-            <tr>
-              <td>${p.cantidad}</td>
-              <td>$${p.valor.toLocaleString("es-CO")}</td>
-              <td>${p.Unidad ? p.Unidad : "-"}</td>
-            </tr>
-          `;
-        });
-
-        html += "</table>";
-        preciosContainer.innerHTML = html;
-      }
+if (producto.precios && producto.precios.length > 0) {
+    // MODIFICADO: Solo dejamos el texto que quieres mantener
+    let html = "<h3>(Puedes surtir en varias referencias)</h3><h3>La compra minima para mayoristas es de 2'500.000</h3>"; 
+    
+    // Eliminamos el bucle forEach y la creación de la tabla 
+    
+    preciosContainer.innerHTML = html;
+}
 
       // WhatsApp link dinámico (ahora solo nombre)
       const mensaje = `Hola, quiero comprar el producto: ${producto.nombre}`;
