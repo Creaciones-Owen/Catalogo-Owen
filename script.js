@@ -26,7 +26,7 @@ function renderCart() {
 
   // Generar link de WhatsApp con el pedido
   let text = "Hola, quiero comprar:\n" + cart.map(i => `${i.name} - $${i.price}`).join("\n") + `\nTotal: $${total}`;
-  document.getElementById("whatsapp-link").href = `https://wa.me/573001112233?text=${encodeURIComponent(text)}`;
+  document.getElementById("whatsapp-link").href = `https://wa.me/573117510802?text=${encodeURIComponent(text)}`;
 }
 
 

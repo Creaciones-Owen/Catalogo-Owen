@@ -125,7 +125,7 @@ if (producto.precios && producto.precios.length > 0) {
       // WhatsApp link dinámico (ahora solo nombre)
       const mensaje = `Hola, quiero comprar el producto: ${producto.nombre}`;
       document.getElementById("whatsapp-link").href =
-        `https://wa.me/573015547616?text=${encodeURIComponent(mensaje)}`;
+        `https://wa.me/573117510802?text=${encodeURIComponent(mensaje)}`;
     }
 
     // --- Catálogo: si existe la grilla, marcamos ViewCategory
