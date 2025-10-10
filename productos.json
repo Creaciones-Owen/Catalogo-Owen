@@ -1183,7 +1183,50 @@
           ],
            "imagenes": [
            "img/3202.jpg",
-           "img/3202-1.jpg"
+           "img/3202-1.jpg",
+           "img/3202-3.jpg",
+           "img/3202-4.jpg"
+          ]
+
+         },
+           {
+           "id": 85,
+           "nombre": "Ref 3202 Aplique",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3202-A.jpg",
+           "img/3202-A-1.jpg"
+          ]
+
+         },
+           {
+           "id": 86,
+           "nombre": "Ref 3203",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3203.jpg",
+           "img/3203-1.jpg",
+           "img/3203-.jpg"
+          ]
+        },
+
+           {
+           "id": 87,
+           "nombre": "Ref 3203 Aplique",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3203-A.jpg",
+           "img/3203-2-A.jpg"
+       
           ]
 
          }
