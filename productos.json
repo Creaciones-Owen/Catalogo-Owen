@@ -1229,5 +1229,143 @@
        
           ]
 
+         },    
+           {
+           "id": 88,
+           "nombre": "Ref 3206",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3206.jpg",
+           "img/3206-1.jpg"
+       
+          ]
+
+         },   
+           {
+           "id": 89,
+           "nombre": "Ref 3206 Aplique",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3206A.jpg",
+           "img/3206A-1.jpg",
+           "img/3206A-2.jpg"
+          ]
+
+         },
+         {
+           "id": 90,
+           "nombre": "Ref 3208",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3208.jpg",
+           "img/3208-1.jpg",
+           "img/3208-2.jpg"
+          ]
+
+         },
+          {
+           "id": 91,
+           "nombre": "Ref 3208 Aplique",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3208A.jpg",
+           "img/3208A-1.jpg"
+          ]
+
+         },
+          {
+           "id": 92,
+           "nombre": "Ref 3210",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3210.jpg",
+           "img/3210-1.jpg",
+           "img/3210-2.jpg"
+          ]
+
+         },
+          {
+           "id": 93,
+           "nombre": "Ref 3210 Aplique",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3210A.jpg",
+           "img/3210A-1.jpg",
+           "img/3210A-2.jpg"
+          ]
+
+         },
+         {
+           "id": 94,
+           "nombre": "Ref 3211",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3211.jpg",
+           "img/3211-1.jpg"
+           ]
+
+         },
+         {
+           "id": 95,
+           "nombre": "Ref 3211 Aplique",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3211A.jpg",
+           "img/3211A-1.jpg"
+          ]
+
+         },
+         {
+           "id": 96,
+           "nombre": "Ref 3212",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3212.jpg",
+           "img/3212-1.jpg",
+           "img/3212-2.jpg"
+           ]
+
+         },
+         {
+           "id": 97,
+           "nombre": "Ref 3212 Aplique",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3212A.jpg",
+           "img/3212A-1.jpg",
+           "img/3212A-2.jpg",
+           "img/3212A-3.jpg"
+          ]
+
          }
-]
+      ]
