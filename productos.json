@@ -904,7 +904,7 @@
          },
          {
            "id": 65,
-           "nombre": "Ref 1005",
+           "nombre": "Ref 1006",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
@@ -919,7 +919,7 @@
          },
           {
            "id": 66,
-           "nombre": "Ref 1005",
+           "nombre": "Ref 734 XS",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
@@ -927,14 +927,18 @@
             { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
           ],
            "imagenes": [
-           "img/1006.png",
-           "img/1006-1.png"
+           "img/734xs.png",
+           "img/734xs-1.png",
+           "img/734xs-2.png",
+           "img/734xs-3.png",
+           "img/734xs-4.png",
+           "img/734xs-5.png"
           ]
 
          },
           {
            "id": 67,
-           "nombre": "Ref 1005",
+           "nombre": "Ref 735 Dama",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
@@ -942,14 +946,18 @@
             { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
           ],
            "imagenes": [
-           "img/1006.png",
-           "img/1006-1.png"
+           "img/735D.png",
+           "img/735D-1.png",
+           "img/735D-2.png",
+           "img/735D-3.png",
+           "img/735D-4.png",
+           "img/735D-5.png"
           ]
 
          },
           {
            "id": 68,
-           "nombre": "Ref 1005",
+           "nombre": "Ref 815 Niña",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
@@ -957,8 +965,12 @@
             { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
           ],
            "imagenes": [
-           "img/1006.png",
-           "img/1006-1.png"
+           "img/835.png",
+           "img/835-1.png",
+           "img/835-2.png",
+           "img/835-3.png",
+           "img/835-4.png",
+           "img/835-5.png"
           ]
 
          },
