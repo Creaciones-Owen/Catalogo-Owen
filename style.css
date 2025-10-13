@@ -9,6 +9,10 @@ body {
   color: #333;
 }
 
+:root{
+  --header-h: 64px;   /* cambia a la altura real de tu header */
+}
+
 header {
   background: #111;   /* negro */
   color: white;       /* letras blancas */

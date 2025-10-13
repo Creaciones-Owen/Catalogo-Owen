@@ -12,25 +12,22 @@
     {
      "id": 2,
      "nombre": "Ref 3303",
-     "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos.",
+     "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
      "precios": [
-     { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-     { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-     { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
+     { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
     ],
     "imagenes": [
-    "img/3303.jpg"
+    "img/3303.jpg",
+    "img/3303-1.jpg"
    
     ]
     },
     {
      "id": 3,
      "nombre": "Ref 3305",
-     "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+     "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
      "precios": [
-      { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-      { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-      { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
+      { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
     ],
      "imagenes": [
      "img/3305.jpg"
@@ -40,127 +37,119 @@
     {
   "id": 4,
   "nombre": "Ref 3305XL",
-  "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+  "descripcion": "TALLA: XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
   "precios": [
     { "cantidad": 6, "valor": 83994, "Unidad": "$13.999 c/u" },
     { "cantidad": 12, "valor": 143988, "Unidad": "$11.999 c/u" },
     { "cantidad": 120, "valor": 1380000, "Unidad": "$11.500 c/u" }
   ],
   "imagenes": [
-    "img/3305XL.jpg"
-
+    "img/3305XL.jpg",
+    "img/3305XL-2.jpg"
   ]
-},
-{
-  "id": 5,
-  "nombre": "Ref 3306",
-  "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
-  "precios": [
-    { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-    { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-    { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
-  ],
-  "imagenes": [
-    "img/3306.png"
-
-      ]
+     },
+     {
+      "id": 5,
+      "nombre": "Ref 3306",
+      "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
+      "precios": [
+      { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+      ],
+       "imagenes": [
+       "img/3306.png",
+       "img/3306-1.png"
+       ]
       },
       {
         "id": 6,
         "nombre": "Ref 3308",
-        "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+        "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
         "precios": [
-    { "cantidad": 6, "valor": 83994, "Unidad": "$13.999 c/u" },
-    { "cantidad": 12, "valor": 143988, "Unidad": "$11.999 c/u" },
-    { "cantidad": 120, "valor": 1380000, "Unidad": "$11.500 c/u" }
+    { "cantidad": 6, "valor": 83994, "Unidad": "$13.999 c/u" }
        ],
          "imagenes": [
-         "img/3308.png"
-
+         "img/3308.png",
+         "img/3308-1.png"
        ]
        },
        {
 	  "id": 7,
  	  "nombre": "Ref 3308XL",
-  	  "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+  	  "descripcion": "TALLA: XL.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
  	  "precios": [
-           { "cantidad": 6, "valor": 95994, "Unidad": "$15.999 c/u" },
-           { "cantidad": 12, "valor": 167988, "Unidad": "$13.999 c/u" },
-           { "cantidad": 120, "valor": 13499, "Unidad": "$13.499.599 c/u" }
+           { "cantidad": 6, "valor": 95994, "Unidad": "$15.999 c/u" }
        ],
           "imagenes": [
-          "img/3308XL.jpg"
-
+          "img/3308XL.jpg",
+          "img/3308XL-1.jpg"
        ]
        },
        { 
           "id": 8,
           "nombre": "Ref 3309",
-          "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+          "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
           "precios": [
-           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" },
-           { "cantidad": 12, "valor": 119999, "Unidad": "$9.999 c/u" },
-           { "cantidad": 120, "valor": 9599, "Unidad": "$9.499 c/u" }
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
         ],
           "imagenes": [
-           "img/3309.png"
-
+           "img/3309.png",
+           "img/3309-1.png",
+           "img/3309-2.png"
         ]
         },
          {
            "id": 9,
            "nombre": "Ref 3309XL",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: XL.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
            "precios": [
-            { "cantidad": 6, "valor": 83994, "Unidad": "$13.999 c/u" },
-            { "cantidad": 12, "valor": 143988, "Unidad": "$11.999 c/u" },
-            { "cantidad": 120, "valor": 1380000, "Unidad": "$11.500 c/u" }
+            { "cantidad": 6, "valor": 83994, "Unidad": "$13.999 c/u" }
              ],
               "imagenes": [
-              "img/3309XL.jpg"
-
+              "img/3309XL.jpg",
+              "img/3309XL-1.jpeg"
              ]
           },
-        {
+          {
            "id": 10,
            "nombre": "Ref 3310",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
            "precios": [
-    { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-    { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-    { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
-        ],
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
            "imagenes": [
-           "img/3310.png"
+           "img/3310.png",
+           "img/3310-1.png",
+           "img/3310-2.png"
+          ]
 
-        ]
-
-        },
-        {
+          },
+          {
            "id": 11,
            "nombre": "Ref 3311",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
            "precios": [
-            { "cantidad": 6, "valor": 69000, "Unidad": "$13.000 c/u" },
-            { "cantidad": 12, "valor": 114000, "Unidad": "$10.999 c/u" },
-            { "cantidad": 120, "valor": 1079000, "Unidad": "$10.500 c/u" }
+            { "cantidad": 6, "valor": 69000, "Unidad": "$13.000 c/u" }
         ],
            "imagenes": [
-           "img/3311.png"
+           "img/3311.png",
+            "img/3311-1.png"
         ]
 
         },
         {
            "id": 12,
            "nombre": "Ref 3312",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
            "precios": [
-           { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-           { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-           { "cantidad": 120, "valor": 1079000, "Unidad": "$8.999 c/u" }
+           { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
         ],
            "imagenes": [
-           "img/3312.jpg"
+           "img/3312.jpg",
+           "img/3312-1.jpeg",
+           "img/3312-2.jpeg",
+           "img/3312-3.jpeg",
+           "img/3312-4.jpeg",
+           "img/3312-5.jpeg"
         ]
 
         },
@@ -898,7 +887,9 @@
           ],
            "imagenes": [
            "img/1005.png",
-           "img/1005-1.png"
+           "img/1005-1.png",
+           "img/1005-2.png",
+           "img/1005-3.png"
           ]
 
          },
@@ -984,8 +975,11 @@
             { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
           ],
            "imagenes": [
-           "img/1006.png",
-           "img/1006-1.png"
+           "img/3384.png",
+           "img/3384-1.png",
+           "img/3384-2.png",
+           "img/3384-3.png",
+           "img/3384-4.png"
           ]
 
          },
@@ -999,8 +993,11 @@
             { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
           ],
            "imagenes": [
-           "img/1006.png",
-           "img/1006-1.png"
+           "img/3385.png",
+           "img/3385-1.png",
+           "img/3385-2.png",
+           "img/3385-3.png",
+           "img/3385-4.png"
           ]
 
          },
