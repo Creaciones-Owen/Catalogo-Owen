@@ -876,8 +876,8 @@
          },
          {
            "id": 63,
-           "nombre": "Ref 1003",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "nombre": "Ref 1003 Niña",
+           "descripcion": "TELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
             { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
@@ -889,8 +889,8 @@
          },
          {
            "id": 64,
-           "nombre": "Ref 1005",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "nombre": "Ref 1005 Dama",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
             { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
@@ -904,8 +904,8 @@
          },
          {
            "id": 65,
-           "nombre": "Ref 1006",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "nombre": "Ref 1006 Niña Junior",
+           "descripcion": "TELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
             { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
@@ -920,7 +920,7 @@
           {
            "id": 66,
            "nombre": "Ref 734 XS",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
             { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
@@ -939,7 +939,7 @@
           {
            "id": 67,
            "nombre": "Ref 735 Dama",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
             { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
@@ -958,7 +958,7 @@
           {
            "id": 68,
            "nombre": "Ref 815 Niña",
-           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
             { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
@@ -1747,7 +1747,7 @@
           {
            "id": 126,
            "nombre": "Ref 1824",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
@@ -1761,7 +1761,7 @@
           {
            "id": 127,
            "nombre": "Ref 1826",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
@@ -1773,7 +1773,7 @@
           {
            "id": 128,
            "nombre": "Ref Over",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
@@ -1785,7 +1785,7 @@
           {
            "id": 129,
            "nombre": "Ref 2010",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
@@ -1797,7 +1797,7 @@
           {
            "id": 130,
            "nombre": "Ref 2010-B",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
@@ -1809,7 +1809,7 @@
           {
            "id": 131,
            "nombre": "Ref 1203",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
@@ -1821,7 +1821,7 @@
           {
            "id": 132,
            "nombre": "Ref 1204",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
@@ -1833,19 +1833,422 @@
           {
            "id": 133,
            "nombre": "Ref Over-F",
-           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
+           "descripcion": "TALLA: S, M, L, XL.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
            "imagenes": [
            "img/Over-F.jpg"
           ]
-          }
+          },
 
+          {
+           "id": 134,
+           "nombre": "Ref 028",
+           "descripcion": "TALLA: Unica, 42, 48.\nTELA: Piel de durazno.\nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/028.jpeg"
+          ]
+          },
 
+          {
+           "id": 135,
+           "nombre": "Ref 080",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/080.jpeg"
+          ]
+          },
 
+          {
+           "id": 136,
+           "nombre": "Ref 081",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/081.jpeg"
+          ]
+          },
 
-
+          {
+           "id": 137,
+           "nombre": "Ref 2008",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/2008.jpeg"
+          ]
+          },
           
+          {
+           "id": 138,
+           "nombre": "Ref 2009",
+           "descripcion": "TALLA: Unica, 42, 48.\nTELA: Piel de durazno.\nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/2009.jpeg"
+          ]
+          },
+          
+          {
+           "id": 139,
+           "nombre": "Ref 3028",
+           "descripcion":  "TALLA: Unica, 42, 48.\nTELA: Piel de durazno.\nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/3028.jpeg"
+          ]
+          },
+
+          {
+           "id": 140,
+           "nombre": "Ref 4006",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/4006.jpeg"
+          ]
+          },
+
+          {
+           "id": 141,
+           "nombre": "Ref 4009",
+           "descripcion": "TALLA: Unica, 42, 48.\nTELA: Piel de durazno.\nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/4009.jpeg"
+          ]
+          },
+
+          {
+           "id": 142,
+           "nombre": "Ref 4009-B",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/4009-B.jpeg"
+          ]
+          },
+
+          {
+           "id": 143,
+           "nombre": "Ref 5009",
+           "descripcion": "TALLA: Unica, 42, 48.\nTELA: Piel de durazno.\nCOLORES: Surtidos.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/5009.jpeg"
+          ]
+          },
+
+        {
+           "id": 144,
+           "nombre": "Ref 5010",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+
+        ],
+           "imagenes": [
+           "img/5010.jpeg"
+        ]
+
+        },
+
+        {
+           "id": 145,
+           "nombre": "Ref 5013",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+
+        ],
+           "imagenes": [
+           "img/5013.jpeg"
+        ]
+
+        },   
+        {
+           "id": 146,
+           "nombre": "Ref 5015",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/5015.jpg"
+        ]
+
+        },   
+        {
+           "id": 147,
+           "nombre": "Ref 5016",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/5016.jpeg"
+        ]
+
+        },       
+        {
+           "id": 148,
+           "nombre": "Ref 5017",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/5017.jpeg"
+        ]
+
+        },  
+        {
+           "id": 149,
+           "nombre": "Ref 6009",
+           "descripcion": "TALLA: Unica, 48.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/6009.jpeg"
+        ]
+
+        },  
+        {
+           "id": 150,
+           "nombre": "Ref 6011",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/6011.jpeg"
+        ]
+
+        },        
+        
+        {
+           "id": 151,
+           "nombre": "Ref 1920",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/1920.jpeg"
+        ]
+
+        }, 
+       
+        {
+           "id": 152,
+           "nombre": "Ref 1924",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/1924.jpeg"
+        ]
+
+        },  
+        {
+           "id": 153,
+           "nombre": "Ref 1940",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/1940.jpeg"
+        ]
+
+        },  
+        {
+           "id": 154,
+           "nombre": "Ref 2007",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/2007.jpeg"
+        ]
+
+        },  
+        {
+           "id": 155,
+           "nombre": "Ref 2012",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/2012.jpeg"
+        ]
+
+        },  
+        {
+           "id": 156,
+           "nombre": "Ref 3012",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/3012.jpeg"
+        ]
+
+        },  
+        {
+           "id": 157,
+           "nombre": "Ref 5014",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/5014.jpeg"
+        ]
+
+              },  
+        {
+           "id": 158,
+           "nombre": "Ref 5032",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/5032.jpeg"
+        ]
+
+                },  
+        {
+           "id": 159,
+           "nombre": "Ref 5032-1",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/5032-1.jpeg"
+        ]
+
+                },  
+        {
+           "id": 160,
+           "nombre": "Ref 19215",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/19215.jpeg"
+        ]
+
+        },
+        
+        
+         {
+           "id": 161,
+           "nombre": "Ref 6022",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/6022.jpeg"
+        ]
+
+        },  
+
+         {
+           "id": 162,
+           "nombre": "Ref 2014",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/2014.jpeg"
+        ]
+
+        },
+        
+         {
+           "id": 163,
+           "nombre": "Ref 2018",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/2018.jpeg"
+        ]
+
+        },  
+
+         {
+           "id": 164,
+           "nombre": "Ref 7009",
+           "descripcion": "TALLA: Unica, 42.\nTELA: Piel de durazno. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+        ],
+           "imagenes": [
+           "img/7009.jpeg"
+        ]
+
+        },  
+
+         {
+           "id": 165,
+           "nombre": "Ref 1918",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nESTAMPADOS: Surtidos. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+          ],
+           "imagenes": [
+           "img/1918.jpeg"
+          ]
+
+          },  
+
+          {
+           "id": 166,
+           "nombre": "Ref 2805",
+           "descripcion": "TALLA: Unica, XL.\nTELA: Piel de durazno. \nCOLORES: Surtidos.",
+           "precios": [
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+          ],
+           "imagenes": [
+           "img/2805.jpeg"
+          ]
+
+          }  
 
       ]
