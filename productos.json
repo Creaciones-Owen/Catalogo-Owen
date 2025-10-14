@@ -919,9 +919,7 @@
            "nombre": "Ref 815 Niña",
            "descripcion": "TELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
-            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-            { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-            { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
            "imagenes": [
            "img/835.png",
@@ -934,6 +932,53 @@
 
          },
           {
+           "id": 167,
+           "nombre": "Ref 028 Unica",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/028U.png",
+           "img/028U-1.png",
+           "img/028U-2.png",
+           "img/028U-3.png"
+          ]
+         },
+
+
+                  
+          {
+           "id": 168,
+           "nombre": "Ref 028 48",
+           "descripcion": "TALLA: 42.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/028-42.png",
+           "img/028-42-1.png",
+           "img/028-42-2.png"
+          ]
+         },
+
+          {
+           "id": 169,
+           "nombre": "Ref 028 48",
+           "descripcion": "TALLA: 48.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/028-48.png",
+           "img/028-48-1.png",
+           "img/028-48-2.png",
+           "img/028-48-3.png"
+          ]
+         },
+         
+
+         {
            "id": 69,
            "nombre": "Ref 1005",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: surtidos.",
