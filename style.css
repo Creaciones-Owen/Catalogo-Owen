@@ -7,6 +7,11 @@ body {
   padding: 0;
   background: #f9f9f9;
   color: #333;
+  padding-top: var(--header-h);
+}
+
+:root{
+  --header-h: 72px;     /* altura real de tu header */
 }
 
 header{
@@ -29,6 +34,13 @@ header h1 {
   font-weight: bold;
 }
 
+.catmenu, .catbar{
+  position: sticky;
+  top: var(--header-h);   /* se pega justo debajo del header */
+  z-index: 900;
+  background: #0f0f10;   /* mismo fondo que usas */
+  border-bottom: 1px solid #1f1f22;
+}
 /* ========================
    Grilla de productos
    ======================== */
