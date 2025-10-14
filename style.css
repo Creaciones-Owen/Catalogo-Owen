@@ -9,19 +9,20 @@ body {
   color: #333;
 }
 
-:root{
-  --header-h: 64px;   /* cambia a la altura real de tu header */
-}
-
-header {
-  background: #111;   /* negro */
-  color: white;       /* letras blancas */
-  padding: 1rem 2rem;
+header{
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--header-h);
+  z-index: 1000;
+  background: #111;      /* ya lo tienes, asegúrate que tenga fondo */
+  color: #fff;           /* letras blancas */
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;    /* ya lo tenías también */
+  box-sizing: border-box;/* importante cuando el header es fixed */
+  width: 100%;
 }
-
 header h1 {
   margin: 0;
   font-size: 1.5rem;
