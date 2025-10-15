@@ -977,6 +977,82 @@
           ]
          },
          
+          {
+           "id": 170,
+           "nombre": "Ref 2009 Unica",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/2009U.png",
+           "img/2009U-1.png",
+           "img/2009U-2.png",
+            "img/2009U-3.png"
+          ]
+         },
+         
+        
+         {
+           "id": 171,
+           "nombre": "Ref 2009 42",
+           "descripcion": "TALLA: 42.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/2009-42.png",
+           "img/2009-42-1.png",
+           "img/2009-42-2.png",
+            "img/2009-42-3.png"
+          ]
+         },
+
+         {
+           "id": 172,
+           "nombre": "Ref 2009 48",
+           "descripcion": "TALLA: 48.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/2009-48.png",
+           "img/2009-48-1.png",
+           "img/2009-48-2.png",
+            "img/2009-48-3.png"
+          ]
+         },
+
+         {
+           "id": 173,
+           "nombre": "Ref 5009",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/5009.png",
+           "img/5009-1.png",
+           "img/5009-2.png",
+           "img/5009-3.png"
+          ]
+         },
+
+                  
+         {
+           "id": 174,
+           "nombre": "Ref 5010",
+           "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
+           "precios": [
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
+          ],
+           "imagenes": [
+           "img/5010.png",
+           "img/5010-1.png",
+           "img/5010-2.png",
+           "img/5010-3.png"
+          ]
+         },
 
          {
            "id": 69,
