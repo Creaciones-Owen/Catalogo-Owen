@@ -752,35 +752,33 @@
            "nombre": "Ref 1063",
            "descripcion": "TALLA: 2-4, 6-8, 10-12, 14-16.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
            "precios": [           
-           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" },
-           { "cantidad": 12, "valor": 119999, "Unidad": "$9.999 c/u" },
-           { "cantidad": 120, "valor": 9599, "Unidad": "$9.499.599 c/u" }
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
         ],
            "imagenes": [
            "img/1063.png",
            "img/1063.jpeg",
            "img/1063-2.jpeg"
         ]
-
         },
+
+
         {
            "id": 59,
            "nombre": "Ref 1065",
            "descripcion": "TALLA: 2-4, 6-8, 10-12, 14-16.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
            "precios": [
-           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" },
-           { "cantidad": 12, "valor": 119999, "Unidad": "$9.999 c/u" },
-           { "cantidad": 120, "valor": 9599, "Unidad": "$9.499.599 c/u" }
-        ],
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
+          ],
            "imagenes": [
            "img/1065.png",
            "img/1065.jpeg",
            "img/1065-1.png",
            "img/1065-2.jpeg",
            "img/1065-3.jpeg"
-        ]
+          ]
+          },
 
-        },
+
           {
            "id": 60,
            "nombre": "Ref 1067",
@@ -794,9 +792,10 @@
            "img/1067-2.jpeg",
            "img/1067-1.png"
            ]
-
           },
-        {
+
+
+          {
            "id": 61,
            "nombre": "Ref 1068",
            "descripcion": "TALLA: 2-4, 6-8, 10-12, 14-16.\nTELA: Piel de durazno.\nESTAMPADOS surtidos.",
@@ -810,10 +809,11 @@
            "img/1068-3.jpg",
            "img/1068-4.jpg",
            "img/1068-5.jpg",
-           "img/1068-6.jpg"
+           "img/1068-6.jpg"           
           ]
-
          },
+
+
          {
            "id": 62,
            "nombre": "Ref 1069",
@@ -831,17 +831,23 @@
           ]
 
          },
+
+         
+
+
          {
            "id": 63,
            "nombre": "Ref 1003 Niña",
            "descripcion": "TELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
-            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-            { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-            { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
            "imagenes": [
-           "img/1003.png"
+           "img/1003.png",
+           "img/1003-1.png",
+           "img/1003-2.png",
+           "img/1003-3.png",
+           "img/1003-4.png"
           ]
          },
          {
@@ -849,15 +855,15 @@
            "nombre": "Ref 1005 Dama",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro, Azul Oscuro.",
            "precios": [
-            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-            { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-            { "cantidad": 120, "valor": 1079880, "Unidad": "$8.999 c/u" }
+            { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
            "imagenes": [
            "img/1005.png",
            "img/1005-1.png",
            "img/1005-2.png",
-           "img/1005-3.png"
+           "img/1005-3.png",
+           "img/1005-4.png",
+           "img/1005-5.png"
           ]
 
          },
@@ -872,7 +878,10 @@
           ],
            "imagenes": [
            "img/1006.png",
-           "img/1006-1.png"
+           "img/1006-1.png",
+           "img/1006-2.png",
+           "img/1006-3.png",
+           "img/1006-4.png"
           ]
 
          },
