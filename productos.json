@@ -949,7 +949,7 @@
           ],
            "imagenes": [
            "img/028U.png",
-           "img/028U-1.png",
+           "img/028U-1.jpg",
            "img/028U-2.png",
            "img/028U-3.png"
           ]
@@ -959,15 +959,16 @@
                   
           {
            "id": 168,
-           "nombre": "Ref 028 48",
+           "nombre": "Ref 028 42",
            "descripcion": "TALLA: 42.\nTELA: Piel de durazno.\nCOLORES: Blanco, Negro.",
            "precios": [
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
            "imagenes": [
            "img/028-42.png",
-           "img/028-42-1.png",
-           "img/028-42-2.png"
+           "img/028-42-1.jpg",
+           "img/028-42-2.png",
+           "img/028-42-3.png"
           ]
          },
 
@@ -982,7 +983,7 @@
            "img/028-48.png",
            "img/028-48-1.png",
            "img/028-48-2.png",
-           "img/028-48-3.png"
+           "img/028-48-3.jpg"
           ]
          },
          
