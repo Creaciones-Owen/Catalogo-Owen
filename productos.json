@@ -174,7 +174,8 @@
             { "cantidad": 6, "valor": 81000, "Unidad": "$13.500 c/u" }
         ],
            "imagenes": [
-           "img/3315XL.jpg"
+           "img/3315XL.jpg",
+           "img/3315XL-1.jpg"
         ]
 
         },
@@ -186,7 +187,8 @@
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
            ],
            "imagenes": [
-            "img/3316.jpg"
+            "img/3316.jpg",
+            "img/3316-1.jpg"
             ]
 
         },
@@ -200,7 +202,8 @@
             { "cantidad": 120, "valor": 10999, "Unidad": "$10.999 c/u" }
            ],
            "imagenes": [
-            "img/3316XL.jpg"
+            "img/3316XL.jpg",
+            "img/3316XL-1.jpeg"
             ]
 
         },
@@ -226,7 +229,8 @@
             { "cantidad": 6, "valor": 83994, "Unidad": "$13.999 c/u" }
         ],
            "imagenes": [
-           "img/3317XL.jpg"
+           "img/3317XL.jpg",
+           "img/3317XL-1.jpeg"
         ]
 
         },
@@ -264,9 +268,7 @@
            "nombre": "Ref 3324",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
            "precios": [
-           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" },
-           { "cantidad": 12, "valor": 119999, "Unidad": "$9.999 c/u" },
-           { "cantidad": 120, "valor": 9599, "Unidad": "$9.499.599 c/u" }
+           { "cantidad": 6, "valor": 71994, "Unidad": "$11.999 c/u" }
         ],
            "imagenes": [
            "img/3324.jpg",
@@ -279,9 +281,7 @@
            "nombre": "Ref 3328",
            "descripcion": "TALLA: Unica.\nTELA: Piel de durazno (No transparenta). \nESTAMPADOS: Surtimos colores/estampados variados; si requieres repetir, confírmalo por WhatsApp. \nFABRICACION: Hecho en Medellín",
            "precios": [
-           { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" },
-           { "cantidad": 12, "valor": 114000, "Unidad": "$9.500 c/u" },
-           { "cantidad": 120, "valor": 1079000, "Unidad": "$8.999 c/u" }
+           { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
         ],
            "imagenes": [
            "img/3328.jpg",
@@ -313,7 +313,8 @@
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
         ],
            "imagenes": [
-           "img/3330.jpg"
+           "img/3330.jpg",
+           "img/3330-1.jpg"
         ]
 
         },
@@ -325,7 +326,8 @@
             { "cantidad": 6, "valor": 81000, "Unidad": "$13.500 c/u" }
         ],
            "imagenes": [
-           "img/3330XL.png"
+           "img/3330XL.png",
+           "img/3330XL-2.png"
         ]
 
         },
@@ -366,7 +368,8 @@
             { "cantidad": 6, "valor": 69000, "Unidad": "$11.500 c/u" }
           ],
            "imagenes": [
-           "img/3335.jpg"
+           "img/3335.jpg",
+           "img/3335-1.jpg"
           ]
 
         },
